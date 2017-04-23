@@ -17,7 +17,7 @@ namespace TheAionProject
                 SpaceTimeLocationID = 2,
                 Description = "A small leather pouch filled with 9 gold coins.",
                 Type = TravelerObjectType.Treasure,
-                Value = 45,
+                Value = 40,
                 CanInventory = true,
                 IsConsumable = true,
                 IsVisible = true,
