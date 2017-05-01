@@ -288,7 +288,7 @@ namespace TheAionProject
                 "Space-Time Location Id".PadRight(10) + "\n" +
                 "---".PadRight(10) +
                 "----------------------".PadRight(30) +
-                "----------------------".PadRight(10) + "/n";
+                "----------------------".PadRight(10) + "\n";
 
             //
             // display all traveler objects in rows
@@ -389,7 +389,7 @@ namespace TheAionProject
                 "---".PadRight(10) +
                 "----------------------".PadRight(30) +
                 "----------------------".PadRight(10) +
-                "/n";
+                "\n";
 
             //
             // display all traveler objects in rows
